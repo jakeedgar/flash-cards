@@ -1,0 +1,9 @@
+.dark-background {
+  background-color: #000;
+  color: blanchedalmond;
+}
+
+.light-background {
+  background-color: blanchedalmond;
+  color: #000;
+}
