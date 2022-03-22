@@ -1,9 +1,65 @@
-.dark-background {
-  background-color: #000;
-  color: blanchedalmond;
+h1 {
+  text-align: center;
 }
 
-.light-background {
-  background-color: blanchedalmond;
-  color: #000;
+.card-title {
+  text-align: center;
+}
+
+p.card-text {
+  text-align: center;
+}
+
+#text-showing1 {
+  display: none;
+}
+
+#text-showing2 {
+  display: none;
+}
+
+#text-showing3 {
+  display: none;
+}
+
+#text-showing4 {
+  display: none;
+}
+
+#text-showing5 {
+  display: none;
+}
+
+#text-showing6 {
+  display: none;
+}
+
+.clickable1 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable2 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable3 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable4 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable5 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable6 {
+  cursor: pointer;
+  color: #0088cc;
 }
